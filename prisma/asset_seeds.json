@@ -1,0 +1,42 @@
+[
+  {
+    "type": "CIA1-10",
+    "serial": "0000001",
+    "status": "actived",
+    "description": "description 1",
+    "location_id": 1,
+    "id": "1"
+  },
+  {
+    "type": "CIA1-10",
+    "serial": "0000002",
+    "status": "actived",
+    "description": "description 2",
+    "location_id": 1,
+    "id": "2"
+  },
+  {
+    "type": "CIA1-11",
+    "serial": "0000003",
+    "status": "actived",
+    "description": "description 3",
+    "location_id": 2,
+    "id": "3"
+  },
+  {
+    "type": "CIA1-12",
+    "serial": "0000005",
+    "status": "actived",
+    "description": "description 5",
+    "location_id": 5,
+    "id": "5"
+  },
+  {
+    "type": "CIA1-13",
+    "serial": "0000006",
+    "status": "actived",
+    "description": "description 6",
+    "location_id": 5,
+    "id": "6"
+  }
+]

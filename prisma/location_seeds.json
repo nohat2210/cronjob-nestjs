@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Da Nang",
+    "organization": "PNS",
+    "status": "actived"
+  },
+  {
+    "id": 2,
+    "name": "Ha Noi",
+    "organization": "PNS",
+    "status": "unactive"
+  },
+  {
+    "id": 3,
+    "name": "Ho Chi Minh",
+    "organization": "PNS",
+    "status": "actived"
+  },
+  {
+    "id": 4,
+    "name": "Nha Trang",
+    "organization": "PLJ",
+    "status": "actived"
+  },
+  {
+    "id": 5,
+    "name": "Can Tho",
+    "organization": "PLJ",
+    "status": "actived"
+  }
+]
